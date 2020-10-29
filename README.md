@@ -13,3 +13,4 @@ The Employee Directory uses the Random User API to generate user data for a tota
 ## Live app
 https://smorrison-uoft.github.io/Employee-Directory-/
 
+<img width="1440" alt="Screen Shot 2020-10-29 at 2 05 39 PM" src="https://user-images.githubusercontent.com/64607428/97620339-d2d93980-19f7-11eb-8321-dca851236e10.png">
