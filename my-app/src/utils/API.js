@@ -12,5 +12,5 @@ export default {
         axios.defaults.headers.post['Access-Control-Allow-Origin'] = '*';
         return axios.get(`https://randomuser.me/api/?name.first=${searchInput}`);
     }
-
+//comment
 };
